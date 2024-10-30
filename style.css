@@ -1,0 +1,13 @@
+body{
+    background-color: aquamarine;
+}
+
+h1{
+    color: navy;
+    margin-left: 20px;
+}
+
+img{
+    width: 100%;
+    max-width: 960px;
+}
